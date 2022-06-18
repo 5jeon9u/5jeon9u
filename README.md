@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=97DFFF&fontColor=F8D4E9&height=150&text=HyeonJeong%20Lee&fontSize=50&fontAlign=75&rotate=10&fontAlignY=30&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=97DFFF&fontColor=F8D4E9&height=100&text=HyeonJeong%20Lee&fontSize=35&fontAlign=82&rotate=6&fontAlignY=30&animation=twinkling)
 <!-- 소제목 : &desc=desc%20function%20is%20also%20rotated. -->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=5jeon9u)](https://solved.ac/5jeon9u)<br>
@@ -9,4 +9,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=97DFFF&fontColor=F8D4E9&height=150&fontSize=50&fontAlign=75&rotate=10&fontAlignY=30&animation=twinkling&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=97DFFF&fontColor=F8D4E9&height=100&fontSize=50&fontAlign=75&rotate=10&fontAlignY=30&animation=twinkling&section=footer)
