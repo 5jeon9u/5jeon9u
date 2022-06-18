@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=97DFFF&fontColor=F8D4E9&height=120&text=HyeonJeong%20Lee&fontSize=35&animation=twinkling&fontAlignY=50)
-<h4 align="center">🎁About Me🎁</h4>
+<h3 align="center">🎁About Me🎁</h2>
 <p align="center">
   <a href="mailto:lhynjn9@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
-<h4 align="center">💻Tech Stack💻</h4>
+<h3 align="center">💻Tech Stack💻</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
