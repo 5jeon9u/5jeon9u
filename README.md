@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=97DFFF&fontColor=F8D4E9&height=120&text=HyeonJeong%20Lee&fontSize=35&animation=twinkling&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=CCFF00&fontColor=000000&height=120&text=HyeonJeong%20Lee&fontSize=35&animation=twinkling&fontAlignY=50)
 <h3 align="center">🎁About Me🎁</h2>
 <p align="center">
   <a href="mailto:lhynjn9@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -18,4 +18,4 @@
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=97DFFF&fontColor=F8D4E9&height=90&fontSize=35&animation=twinkling&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=CCFF00&fontColor=F8D4E9&height=90&fontSize=35&animation=twinkling&section=footer)
